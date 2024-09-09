@@ -1,7 +1,7 @@
 for freelance work? do reach, [email](mailto:bikrant.acc.edu@icloud.com) :)
 
-📊 **this week i spent my time on:**
-<!--START_SECTION:waka-->
+
+<!--START_SECTION:-->
 
 
 
@@ -27,10 +27,10 @@ for freelance work? do reach, [email](mailto:bikrant.acc.edu@icloud.com) :)
 
 
 ```txt
-TypeScript   5 hrs 34 mins   █████████████████████░░░░   84.10 %
+Python       5 hrs 34 mins   █████████████████████░░░░   80.10 %
 Bash         28 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.08 %
-CSS          14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 %
-HTML         10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.61 %
+C            14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 %
+Cryptography 10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.61 %
 JavaScript   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
 ```
 
@@ -43,8 +43,8 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 <!-- TODO-IST:START -->
 🏆  8,004 Karma Points           
 🌸  Completed 0 tasks today           
-✅  Completed 673 tasks so far           
-⏳  Longest streak is 10 days
+✅  Created  673 problems so far 
+⏳  Remaining things I will write down later
 <!-- TODO-IST:END -->
 
 
