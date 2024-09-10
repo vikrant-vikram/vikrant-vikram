@@ -18,6 +18,7 @@ for freelance work? do reach, [email](mailto:bikrant.acc.edu@icloud.com) :)
 </pre>
 <br><br>
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
+    <iframe src="https://giphy.com/embed/5GS13A3jXN9xSQF6HL" width="480" height="271" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 <br><br><br>
   
 </div>
