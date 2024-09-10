@@ -17,8 +17,7 @@ for freelance work? do reach, [email](mailto:bikrant.acc.edu@icloud.com) :)
     🐾 Muffin 🐰 • anddddd SAMOSEEEEEEEEE 
 </pre>
 <br><br>
-<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
-    <iframe src="https://giphy.com/embed/5GS13A3jXN9xSQF6HL" width="480" height="271" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM212MTVjYm10Z3o2MWlmdnZ0aTNrZHVqamkwNW9hMGVldm9jM29jMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5GS13A3jXN9xSQF6HL/giphy.gif" height="70" />
 <br><br><br>
   
 </div>
