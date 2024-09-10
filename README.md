@@ -1,7 +1,7 @@
 for freelance work? do reach, [email](mailto:bikrant.acc.edu@icloud.com) :)
 
 
-<!--START_SECTION:-->
+
 
 
 
@@ -42,14 +42,15 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 <!-- TODO-IST:START -->
 🏆  8,004 Karma Points           
 🌸  Completed 0 tasks today           
-✅  Created  673 problems so far 
+✅  Created  673 problems so far    
 ⏳  Remaining things I will write down later
 <!-- TODO-IST:END -->
 
 
-📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=vikrant-vikram&show_icons=true&theme=gotham" alt="vikrant-vikram" />
+
+<!--<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=vikrant-vikram&show_icons=true&theme=gotham" alt="vikrant-vikram" />-->
+
 
 
 
