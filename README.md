@@ -10,7 +10,7 @@ for freelance work? do reach, [email](mailto:bikrant.acc.edu@icloud.com) :)
 <br><br>
 <pre>
     💼 CTF • HTB • Full stack Developer
-    💻 System programming languages • Machine Learning
+    💻 Creative Coding • Machine Learning
     📖 Software architecture • Competative Programming
     🎮 Music • Games • Anime • Code • Art
     🐾 Muffin 🐰 • anddddd SAMOSEEEEEEEEE 
