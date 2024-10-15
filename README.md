@@ -13,7 +13,7 @@ for freelance work? do reach, [email](mailto:bikrant.acc.edu@icloud.com) :)
     💻 Creative Coding • Machine Learning
     📖 Software architecture • Competative Programming
     🎮 Music • Games • Anime • Code • Art
-    🐾 Muffin 🐰 • anddddd SAMOSEEEEEEEEE 
+     Muffin  • anddddd SAMOSEEEEEEEEE 
 </pre>
 <br><br>
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM212MTVjYm10Z3o2MWlmdnZ0aTNrZHVqamkwNW9hMGVldm9jM29jMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5GS13A3jXN9xSQF6HL/giphy.gif" height="100" />
