@@ -200,7 +200,7 @@ In this day-to-day modernizing era where data security is becoming a major conce
 
 <div align="center">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/AES_%28Rijndael%29_Round_Function.png/500px-AES_%28Rijndael%29_Round_Function.png" height="500" />
-<div>
+</div>
 <pre>
 
 
@@ -233,7 +233,7 @@ has indicated are appropriate for this purpose.
 This Standard may be adopted and used by non-Federal Government organizations.
 7. Specifcations. Federal Information Processing Standard (FIPS) 197, Advanced Encryption
 Standard (AES) (affxed).
-<pre>
+</pre>
 
 
 
