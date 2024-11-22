@@ -52,7 +52,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 
 
-# <a href="https://github.com/vikrant-vikram/prengen">  *1. Prengen* </a>
+# <a href="https://github.com/vikrant-vikram/prengen">  *Prengen* </a>
 
 <div align="center">
 
@@ -80,7 +80,7 @@ With the advent of digitalization and burgeoning demand to disburse the top-notc
 
 </div>
 
-# [Linear Cryptanalysis of SPN Cipher](https://github.com/vikrant-vikram/AES)
+# [Linear Cryptanalysis of SPN Cipher](https://github.com/vikrant-vikram/Linear-Cryptanalysis-of-SPN-Cipher)
 
 ### Explore the linear cryptanalysis of the SPN cipher in this project. Learn how we can analyze the weaknesses of cryptographic systems and improve their security.
 
@@ -172,7 +172,7 @@ The Piling-Up Lemma is valid only when the random variables are independent.
 
 
 
-# <a href="https://github.com/vikrant-vikram/DES?tab=readme-ov-file">  *2. Data Encryption Standard* </a>
+# <a href="https://github.com/vikrant-vikram/DES?tab=readme-ov-file">  *Data Encryption Standard* </a>
 
 <a href="https://en.wikipedia.org/wiki/DES_supplementary_material">DES supplementary material</a>
 
@@ -211,7 +211,7 @@ Bit differences:     1   6   20   29  30  33  32  29  32  39    33    28     30 
     
 
 
-# <a href="https://github.com/vikrant-vikram/Cryptography/blob/main/Assignment/trivium_cipher.py">  *3. Trivium Cipher* </a>
+# <a href="https://github.com/vikrant-vikram/Cryptography/blob/main/Assignment/trivium_cipher.py">  *Trivium Cipher* </a>
 
 <div align="center">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Trivium_%28cipher%29.png/600px-Trivium_%28cipher%29.png" height="500" />
@@ -256,7 +256,7 @@ Trivium has low requirements in hardware.
 
 
 
-# <a href="https://github.com/vikrant-vikram/mrGrapher">  *4. mrGrapher* </a>
+# <a href="https://github.com/vikrant-vikram/mrGrapher">  *mrGrapher* </a>
 
 <div align="center">
 
