@@ -1,14 +1,14 @@
 <div align="center">
 <br><br>
 <pre>
-    💼 CTF • HTB • Full stack Developer
-    💻 Creative Coding • Machine Learning
-    📖 Software architecture • Competative Programming
+    🎓 Researcher • Trustworthy AI & Robust ML
+    💼 Cybersecurity • LLM Agent Security • ASCA
+    💻 Creative Coding • Full Stack Development
     🎮 Music • Games • Anime • Code • Art
      Muffin  • anddddd SAMOSEEEEEEEEE 
 </pre>
 <br><br>
-<img src="[https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM212MTVjYm10Z3o2MWlmdnZ0aTNrZHVqamkwNW9hMGVldm9jM29jMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5GS13A3jXN9xSQF6HL/giphy.gif](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM212MTVjYm10Z3o2MWlmdnZ0aTNrZHVqamkwNW9hMGVldm9jM29jMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5GS13A3jXN9xSQF6HL/giphy.gif)" height="100" />
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM212MTVjYm10Z3o2MWlmdnZ0aTNrZHVqamkwNW9hMGVldm9jM29jMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5GS13A3jXN9xSQF6HL/giphy.gif" height="100" />
 <br><br><br>
   
 </div>
@@ -35,41 +35,48 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 ---
 
-## 🚀 Available for Freelance Work
+## 👋 About Me
 
-Hi, I'm **Bikrant Bikram Pratap Maurya**, a computer scientist and researcher. I bridge the gap between academic-grade machine learning and practical software engineering. If you have a challenging project, I'd love to help you build it. 
-
-**Let's build something awesome. Reach out:** [bikrant.acc.edu@icloud.com](mailto:bikrant.acc.edu@icloud.com) :)
-
-### 🛠️ What I Can Do For You:
-*   **Machine Learning & NLP:** Fine-tuning Large Language Models (GPT-2, FLAN-T5), building custom multimodal architectures (audio/vision PTMs), and hyperparameter optimization using Optuna.
-*   **Cybersecurity & Threat Analysis:** Advanced malware traffic analysis, acoustic side-channel attack (ASCA) modeling, and keystroke inference systems.
-*   **Full-Stack & Desktop App Development:** Building cross-platform desktop applications using Electron and robust Python backends with secure local certificate handling.
+Hi, I'm **Bikrant Bikram Pratap Maurya**, a computer science researcher specializing in **Trustworthy AI, LLM Agent Security, and Adversarial Machine Learning**. My work focuses on how frontier models and multi-agent systems behave under adversarial manipulation, non-linear distortion, and distribution shifts. I aim to bridge the gap between empirical vulnerability analysis and verifiable, certifiable defenses.
 
 ---
 
-## 🔬 Featured Projects & Research
+## 🔬 Featured Research & Publications
 
-### [Malcap](https://github.com/vikrant-vikram)
-**Electron App Development • Malware Analysis**
-> Designed and built an Electron-based desktop application tailored specifically for malware analysis and network traffic capture. The architecture includes a Python backend running securely on a local IP, engineered to seamlessly handle secure certificate errors and data routing.
+### [PsyAgent: Psychology-Informed Jailbreak of LLM Agents](https://github.com/vikrant-vikram)
+**LLM Agent Security • AI Safety • Semantic Steganography**
+> **Under Review (ACM CCS 2026):** Developed *PsyAgent-Bench* to systematically evaluate psychology-informed jailbreaks against multi-agent systems. Identified a "Trust-Decay" effect where increased auditor depth amplifies attack success, exposing a 38.4% residual vulnerability. Designed and evaluated *StoicFirewall* as a zero-temperature JSON extraction mitigation layer.
 
-### [PWNED Framework](https://github.com/vikrant-vikram)
-**Cybersecurity • Deep Learning • Signal Processing**
-> Developed a novel framework to classify malware-downloading traffic by transforming standard PCAP network data into raw audio waveforms and spectrograms. The project involved sourcing and processing a massive dataset of 30,000 malware-downloader URLs to train highly accurate predictive models.
+### [GoCoMA: Hyperbolic Multimodal LLM Code Attribution](https://github.com/vikrant-vikram)
+**Software Forensics • Hyperbolic Geometry • Multimodal Fusion**
+> **Accepted (ICME 2026):** Introduced a geometry-aware framework that projects source code and binary pre-executable artifact representations into a hyperbolic Poincaré ball. Utilized geodesic-cosine similarity-based cross-modal attention for robust source attribution across 12 LLM families under adversarial obfuscation.
 
-### [INDICA Benchmark](https://github.com/vikrant-vikram)
-**Natural Language Processing • Telecom Fraud**
-> Launched a comprehensive multilingual telecom fraud analysis tool encompassing 189,420 samples across 10 different Indic languages. This benchmark provides crucial datasets and metrics for identifying and mitigating region-specific telecom threats.
+### [DECKER: Cross-Keyboard Acoustic Side-Channels](https://github.com/vikrant-vikram)
+**Acoustic Side-Channel Attacks (ASCA) • Adversarial ML**
+> **Accepted (AsiaCCS 2026):** Proposed a domain-invariant keystroke inference framework utilizing Keyboard Signature Normalization and adversarial disentanglement. This approach extracts key-discriminative representations, enabling zero-shot transfer across unseen hardware and noisy environments.
 
-### [DECKER Framework](https://github.com/vikrant-vikram)
-**Acoustic Side-Channel Attacks • ECAPA-TDNN**
-> Built a system for domain-invariant keystroke inference capable of operating across heterogeneous keyboards. This research leverages advanced audio encoders and machine learning to map physical keystrokes via acoustic signals, culminating in an accepted paper at the ASIA CCS conference.
+### [Surviving the Codec: Continuous Sparse Transduction](https://github.com/vikrant-vikram)
+**VoIP Security • Optimal Transport • State Space Models**
+> **Under Review (Interspeech 2026):** Formulated acoustic side-channel attacks over VoIP as a continuous sparse transduction problem. Proposed EvFlow-CTSSM with Latent Rectified Flow Canonicalization via optimal transport to reconstruct non-linearly distorted micro-acoustic events.
 
-### [READ-X](https://github.com/vikrant-vikram)
-**LLMs • AI Safety & Cognition**
-> Investigated "Readability as an Attack Surface," focusing on cognitive pressure and readability-induced oversight failures in AI-mediated communication. Developed the READ-X metric to quantify how sentence-level reconstruction via LLMs can be manipulated or secured.
+### [FOCA: Hyperbolic Cross-Attention for Malware Classification](https://github.com/vikrant-vikram)
+**Malware Classification • Robust ML**
+> **Accepted (ICASSP 2026):** Designed a hyperbolic cross-attention mechanism for multimodal malware classification that fuses behavioral and execution traces, achieving state-of-the-art results on cross-environment benchmarks.
+
+### [CORAL & INDICA: NLP for Deception & Telecom Fraud](https://github.com/vikrant-vikram)
+**NLP • Deception Detection • Positive-Unlabeled Learning**
+> **Accepted (AACL-IJCNLP 2025):** Published *CORAL*, applying positive-unlabeled learning over conversational social graphs for socially-aware deception detection in sparse-label settings. Concurrently launched the *INDICA* benchmark, encompassing 189,420 samples across 10 Indic languages for regional telecom fraud analysis.
+
+### [Malcap & PWNED Framework](https://github.com/vikrant-vikram)
+**Cybersecurity Tools • Deep Learning • Signal Processing**
+> **Applied Research:** Developed the *PWNED* framework to classify malware-downloading traffic by transforming PCAP network data into raw audio waveforms/spectrograms (trained on 30,000+ URLs). Built *Malcap*, an Electron-based desktop application tailored for malware analysis and secure network traffic capture.
 
 ---
 
-# <a href="[https://github.com/vikrant-vikram/](https://github.com/vikrant-vikram/)">  *..and Many More.* </a>
+## 🚀 Let's Connect
+
+While my primary focus is academic research, I leverage my background in full-stack development, Python, and machine learning architectures to build practical software and security tools. If you have a challenging project, want to discuss ML security, or just want to chat about anime and code, feel free to reach out.
+
+📫 **Email me at:** [bikrant.acc.edu@icloud.com](mailto:bikrant.acc.edu@icloud.com)  
+🎓 **Google Scholar:** [Read my full publication list](https://scholar.google.com/citations?hl=en&user=-aHqkv0AAAAJ)  
+🌐 **Portfolio:** [vikrant-vikram.github.io](https://vikrant-vikram.github.io)
