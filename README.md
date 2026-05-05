@@ -37,7 +37,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 ## 👋 About Me
 
-Hi, I'm **Bikrant Bikram Pratap Maurya**, a computer science researcher specializing in **Trustworthy AI, LLM Agent Security, and Adversarial Machine Learning**. My work focuses on how frontier models and multi-agent systems behave under adversarial manipulation, non-linear distortion, and distribution shifts. I aim to bridge the gap between empirical vulnerability analysis and verifiable, certifiable defenses.
+Hi, I'm **Vikrant Vikram**, a computer science researcher specializing in **Trustworthy AI, LLM Agent Security, and Adversarial Machine Learning**. My work focuses on how frontier models and multi-agent systems behave under adversarial manipulation, non-linear distortion, and distribution shifts. I aim to bridge the gap between empirical vulnerability analysis and verifiable, certifiable defenses.
 
 ---
 
